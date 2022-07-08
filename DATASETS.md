@@ -1,0 +1,5 @@
+- [Analyze Boston](https://data.boston.gov/):
+  - [Crime Incident Reports - 2022](https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system/resource/313e56df-6d77-49d2-9c49-ee411f10cf58) => Areas to avoid?
+  - [Property Assessment FY2022](https://data.boston.gov/dataset/property-assessment/resource/4b99718b-d064-471b-9b24-517ae5effecc) => Could do Feature Importance Analysis to determine what characteristics of their property owners should focus on if they want to maximize their value ([How to Calculate Feature Importance With Python - Machine Learning Mastery](https://machinelearningmastery.com/calculate-feature-importance-with-python/))
+
+- [Bluebikes System Data | Blue Bikes Boston](https://www.bluebikes.com/system-data) => Lot of data on trips, stations, and more geeral system information. Could look at which stations need to be upgraded
