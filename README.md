@@ -1,4 +1,6 @@
-![/img/snake_1f40d.png](/img/snake_1f40d.png)
+<p align="center">
+  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/325/snake_1f40d.png">
+</p>
 
 <h1 align="center">Final Project: Data Analysis with Python</h1>
 
