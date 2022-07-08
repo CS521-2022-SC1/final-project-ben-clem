@@ -20,3 +20,9 @@
   1. World Happiness Report
   2. Netflix TV Shows and Movies
   3. Video Game Sales
+  
+-Kokil:
+   Agreed with Ben choice and any choice is fine for me.
+  1.property assement: could predict housing prices based on feature available,like   built in date, renovation,deck,porch,garrage,closeness to aminities,sqft etc.
+  2.video game sales
+  3.world Happiness report
