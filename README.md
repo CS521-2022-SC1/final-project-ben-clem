@@ -10,7 +10,10 @@
 
 ## Topic
 
-Open-Ended option: using X dataset to...
+Open-Ended option:
+- Using this [Kaggle Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogamesales) dataset to predict the sales of an upcoming game based on historical data of similar games.
+- (Or) Using this [Kaggle World Happiness Report](https://www.kaggle.com/datasets/unsdsn/world-happiness?select=2019.csv) dataset to find which feature are the moste important for happiness through Feature Importance Analysis (not sure the dataset is complete enough).
+
 
 ## Tech Stack
 
