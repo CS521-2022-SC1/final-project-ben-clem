@@ -10,19 +10,25 @@
 
 ## Topic
 
-Open-Ended option:
-- Using this [Kaggle Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogamesales) dataset to predict the sales of an upcoming game based on historical data of similar games.
-- (Or) Using this [Kaggle World Happiness Report](https://www.kaggle.com/datasets/unsdsn/world-happiness?select=2019.csv) dataset to find which feature are the moste important for happiness through Feature Importance Analysis (not sure the dataset is complete enough).
+Open-Ended option: **Image Classification using a Convolutional Neural Network**
 
+- Will start with an easy dataset such as [Fruits 360](https://www.kaggle.com/datasets/moltean/fruits), and a basic sequential CNN model.
+- If accuracy > 90%, will try a harder one like [Cat and Dog](https://www.kaggle.com/datasets/tongpython/cat-and-dog) or [Stanford Dogs Dataset](https://www.kaggle.com/datasets/jessicali9530/stanford-dogs-dataset).
+- If accuracy < 90%, will try using transfer learning with ResNet50, and experimenting with data augmentation, learning rate schedule, and early stopping.
 
 ## Tech Stack
 
 - Python
+- Keras
 - Jupyter
 - Git/GitHub
 
-## Authors
+## Changelog
 
-[Benoît Clemenceau](https://github.com/ben-clem)  
-[Dan Hoogasian](https://github.com/)  
-[Kokil Dhakal](https://github.com/KD6752)
+### July 8th:
+
+- Added README.md with explanation
+
+## Author
+
+[Benoît Clemenceau](https://github.com/ben-clem)
