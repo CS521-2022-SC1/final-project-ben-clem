@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/325/snake_1f40d.png">
-</p>
+</div>
 
 <h1 align="center">Final Project: Data Analysis with Python</h1>
 
