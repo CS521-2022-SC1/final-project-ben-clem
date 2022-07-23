@@ -4,11 +4,11 @@
 
 <h1 align="center">Final Project: Data Analysis with Python</h1>
 
-# Instructions
+## Instructions
 
 [instructions.pdf](instructions.pdf)
 
-# Topic
+## Topic
 
 Open-Ended option: **Image Classification using a Convolutional Neural Network**
 
@@ -16,19 +16,19 @@ Open-Ended option: **Image Classification using a Convolutional Neural Network**
 - If accuracy > 90%, will try a harder one like [Cat and Dog](https://www.kaggle.com/datasets/tongpython/cat-and-dog) or [Stanford Dogs Dataset](https://www.kaggle.com/datasets/jessicali9530/stanford-dogs-dataset).
 - If accuracy < 90%, will try using transfer learning with ResNet50, and experimenting with data augmentation, learning rate schedule, and early stopping.
 
-# Tech Stack
+## Tech Stack
 
 - Python
 - Keras
 - Jupyter
 - Git/GitHub
 
-# Changelog
+## Changelog
 
-## July 8th:
+### July 8th:
 
 - Added README.md with explanation
 
-# Author
+## Author
 
 [Benoît Clemenceau](https://github.com/ben-clem)
