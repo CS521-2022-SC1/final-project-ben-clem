@@ -29,6 +29,19 @@ Open-Ended option: **Image Classification using a Convolutional Neural Network**
 
 - Added README.md with explanation
 
+## July 22nd:
+
+- Added 1-fruits-classification-CNN.ipynb
+  - Setting-up environment
+  - Data exploration
+  - Loading the dataset
+  - Data preprocessing
+    - Image Normalization
+
+## August 9th:
+
+
+
 # Author
 
 [Benoît Clemenceau](https://github.com/ben-clem)
