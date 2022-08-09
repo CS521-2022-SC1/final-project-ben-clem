@@ -4,10 +4,6 @@
 
 <h1 align="center">Final Project: Data Analysis with Python</h1>
 
-# Instructions
-
-[instructions.pdf](instructions.pdf)
-
 # Topic
 
 Open-Ended option: **Image Classification using a Convolutional Neural Network**
@@ -44,4 +40,4 @@ Open-Ended option: **Image Classification using a Convolutional Neural Network**
 
 # Author
 
-[Benoît Clemenceau](https://github.com/ben-clem)
+[Benoît Clemenceau](https://benclem.dev)
