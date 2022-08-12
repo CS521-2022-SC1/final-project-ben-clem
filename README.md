@@ -15,7 +15,7 @@ Open-Ended option: **Image Classification using a Convolutional Neural Network**
 # Tech Stack
 
 - Python
-- Keras
+- TensorFlow/Keras
 - Jupyter
 - Git/GitHub
 
