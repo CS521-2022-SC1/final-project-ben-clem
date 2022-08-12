@@ -41,6 +41,7 @@ Open-Ended option: **Image Classification using a Convolutional Neural Network**
 - 2-cats-and-dogs-CNN.ipynb:
     - Vanilla CNN
     - ResNet-50 (unsuccessful)
+- pdf writeup
 
 # Author
 
