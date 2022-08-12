@@ -36,7 +36,11 @@ Open-Ended option: **Image Classification using a Convolutional Neural Network**
 
 ## August 9th:
 
-
+- 1-fruits-classification-CNN.ipynb:
+    - Building, training, and evaluating the model
+- 2-cats-and-dogs-CNN.ipynb:
+    - Vanilla CNN
+    - ResNet-50 (unsuccessful)
 
 # Author
 
